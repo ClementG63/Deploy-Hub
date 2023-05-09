@@ -1,0 +1,4 @@
+enum GitlabFileType {
+  file,
+  folder
+}
